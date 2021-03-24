@@ -196,7 +196,6 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Ben Hutchings (Debian Developer)
 1. Benjamin De Kosnik
 1. Benjamin Elder (Kubernetes SIG Testing Chair)
-1. Benjamin Flesch
 1. Benjamin Kampmann
 1. Benjamin Ragan-Kelley (Project Jupyter)
 1. Benjamin Torell (OBS Project)
@@ -1077,6 +1076,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Øystein Øverng
 1. Pablo Costas Sánchez
 1. Pablo Martín Oldani
+1. Pablo Rodriguez Quesada
 1. Pamela S. Chestek (Open Source Initiative Director)
 1. Panagiotis Vasilopoulos
 1. parabirb
